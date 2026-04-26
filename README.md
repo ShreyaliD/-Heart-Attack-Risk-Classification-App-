@@ -66,7 +66,7 @@ The model is trained on a heart disease dataset using machine learning technique
 * Exercise-Induced Angina
 * ST Slope
 
----
+
 
 ## 🔄 Workflow
 
