@@ -37,7 +37,7 @@ The model is trained on a heart disease dataset using machine learning technique
 * 🧾 User-friendly input form
 * ⚡ Real-time prediction
 * 🎯 ML-based classification
-* 💡 Clean UI with emojis
+
 
 
 
